@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://mickeydarrenlau.github.io/chase/](https://mickeydarrenlau.github.io/chase/)
+> Open this page at [chase.darren.ga](https://chase.darren.ga)
 
 ## Use as Extension
 
